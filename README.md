@@ -1,9 +1,9 @@
-##Paso 1 - Crear entorno virtual
-python -m venv venv
+<h3>Paso 1 - Crear entorno virtual</h3>
+<pre>python -m venv venv</pre>
 
-##Paso 2 - Activar entorno virtual
-Win: .\venv\Scripts\activate
-Linux/MacOS: source env/bin/activate
+<h3>Paso 2 - Activar entorno virtual</h3>
+Win: <pre>.\venv\Scripts\activate</pre>
+Linux/MacOS: <pre>source env/bin/activate</pre>
 
-##Paso 3 - Instalar dependencias
-pip install -r requirements.txt
+<h3>Paso 3 - Instalar dependencias</h3>
+<pre>pip install -r requirements.txt</pre>
